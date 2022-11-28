@@ -1,2 +1,7 @@
-package com.brideglabz.addressbook;public class Library {
+package com.brideglabz.addressbook;
+
+public class Library {
+    public boolean someLibraryMethod() {
+        return true;
+    }
 }
