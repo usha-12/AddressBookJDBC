@@ -5,6 +5,7 @@ import org.junit.jupiter.api.Test;
 import static org.testng.AssertJUnit.assertTrue;
 
 public class LibraryTest {
+
     @Test
     public void testSomeLibraryMethod() {
         Library classUnderTest = new Library();
