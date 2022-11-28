@@ -5,8 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="05213f84-666b-4a23-90d8-77a34712ddc5" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/brideglabz/addressbook/AddressBookConnection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/brideglabz/addressbook/AddressBookConnection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/brideglabz/addressbook/AddressBookDBService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/brideglabz/addressbook/AddressBookDBService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/brideglabz/addressbook/AddressBookData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/brideglabz/addressbook/AddressBookData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/brideglabz/addressbook/AddressBookException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/brideglabz/addressbook/AddressBookException.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/brideglabz/addressbook/AddressBookService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/brideglabz/addressbook/AddressBookService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/brideglabz/addressbook/Library.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/brideglabz/addressbook/Library.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/com/brideglabz/addressbook/AddressBookTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/brideglabz/addressbook/AddressBookTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/brideglabz/addressbook/LibraryTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/brideglabz/addressbook/LibraryTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

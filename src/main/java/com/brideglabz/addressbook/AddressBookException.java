@@ -11,6 +11,7 @@ public class AddressBookException extends Exception {
     public AddressBookException(String message, ExceptionType type) {
         super(message);
         this.type = type;
+
     }
 }
 

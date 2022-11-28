@@ -106,4 +106,5 @@ public class AddressBookDBService {
     public List<AddressBookData> readData(LocalDate startLocalDate, LocalDate endLocalDate) {
         return addressBookDBService.readData(startLocalDate, endLocalDate);
     }
+
 }

@@ -22,5 +22,4 @@ public class AddressBookConnection {
         }
         return connection;
     }
-
 }
