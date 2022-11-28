@@ -5,20 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="05213f84-666b-4a23-90d8-77a34712ddc5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/brideglabz/addressbook/AddressBookConnection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/brideglabz/addressbook/AddressBookDBService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/brideglabz/addressbook/AddressBookData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/brideglabz/addressbook/AddressBookException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/brideglabz/addressbook/AddressBookService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/brideglabz/addressbook/Library.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/brideglabz/addressbook/AddressBookTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/brideglabz/addressbook/LibraryTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/brideglabz/addressbook/AddressBookDBService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/brideglabz/addressbook/AddressBookDBService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/brideglabz/addressbook/AddressBookException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/brideglabz/addressbook/AddressBookException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/brideglabz/addressbook/AddressBookService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/brideglabz/addressbook/AddressBookService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/brideglabz/addressbook/AddressBookTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/brideglabz/addressbook/AddressBookTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,6 +40,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/User/Desktop/210_RPF/AddressBookjdbc",
     "settings.editor.selected.configurable": "reference.settings.project.maven.repository.indices"
   }
 }]]></component>
@@ -57,7 +49,7 @@
       <recent name="com.brideglabz.addressbook" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JUnit.AddressBookTest">
     <configuration name="AddressBookTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="AddressBookjdbc" />
       <extension name="coverage">
@@ -73,9 +65,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="LibraryTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="AddressBookjdbc" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.brideglabz.addressbook.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.brideglabz.addressbook" />
+      <option name="MAIN_CLASS_NAME" value="com.brideglabz.addressbook.LibraryTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="JUnit.AddressBookTest" />
+        <item itemvalue="JUnit.LibraryTest" />
       </list>
     </recent_temporary>
   </component>
